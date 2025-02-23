@@ -11,7 +11,7 @@ A simple web app to generate random icebreaker questions for Scrum meetings. Use
 - 📂 Questions persist using JSON storage
 
 ## 🖥️ How to Use
-1. **Visit the app here:** [Scrum Icebreaker Generator](https://share.streamlit.io/suyogkadam1996/scrum-icebreaker-generator)
+1. **Visit the app here:** [Scrum Icebreaker Generator](https://suyogkadam1996-suyogkadam1996-scrum-icebreaker-gener-app-hxjwbz.streamlit.app/)
 2. Select a category and click **"Generate Question"**.
 3. Add new questions via the input box.
 
